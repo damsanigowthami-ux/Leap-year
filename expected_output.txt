@@ -1,0 +1,5 @@
+Year = 2024, Leap Year = 1
+Year = 2023, Leap Year = 0
+Year = 2000, Leap Year = 1
+Year = 1900, Leap Year = 0
+Year = 2100, Leap Year = 0
